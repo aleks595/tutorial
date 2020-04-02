@@ -16,14 +16,14 @@ public class OrbApplication {
 
 	public static void main(String[] args) throws IOException {
 		ClientAndBank myClass = new ClientAndBank();
-		//myClass.newBankSave("VTB");
-		//myClass.newBankSave("RUS");
-	    //System.out.println(myClass.findByNameBank("Gold"));
+		//myClass.newBankSave("");
+		//myClass.newBankSave("");
+	    //System.out.println(myClass.findByNameBank(""));
 		//myClass.getTestFile();
 		//String fileName="myFile.txt";
 		//String text = "Hello wold I am!";
 	    //MyFilesOperation myClassFile = new MyFilesOperation(fileName);
-		//myClass.newBankSave("Газпром");
+		//myClass.newBankSave("");
 	}
 
 	public static class ClientAndBank {
